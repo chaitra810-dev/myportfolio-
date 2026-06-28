@@ -11,7 +11,7 @@ The website functions as a digital portfolio, allowing visitors to explore the d
 
 Live Website
 
-https://github.com/Chaitra317/myportfolio
+https://chaitra810-dev.github.io/myportfolio-/
 
  Source Code
 
@@ -72,7 +72,7 @@ portfolio-website/
 
 ### Clone the Repository
 
-git clone Chaitra317/myportfolio
+git clone chaitra810-dev /myportfolio
 
 ### Open the Project Directory
 
@@ -115,12 +115,12 @@ To contribute:
 ## 📬 Connect With Me
 
 GitHub:
-https://github.com/Chaitra317
+https://github.com/chaitra810-dev
 
 LinkedIn: https://www.linkedin.com/in/chaitra-shivabasannavar
 
 Portfolio: 
-https://chaitra317.github.io/myportfolio/
+https://chaitra810-dev.github.io/myportfolio-/
 
 ---
 
